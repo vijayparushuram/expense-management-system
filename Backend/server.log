@@ -1,0 +1,69 @@
+2026-01-29 15:41:59,388 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-01-29 15:41:59,564 - db_helper - INFO - insert_expense called with 2024-08-25, amount:40, category:Food, notes:Eat tasty samossa chat
+2026-01-29 15:41:59,596 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-01-29 15:43:12,774 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-01-29 15:43:12,842 - db_helper - INFO - insert_expense called with 2024-08-25, amount:40, category:Food, notes:Eat tasty samossa chat
+2026-01-29 15:43:12,860 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-01-29 19:05:37,231 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-01-29 19:06:14,981 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-01-29 19:21:21,331 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-01-29 19:22:57,288 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-02 14:29:05,985 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 15:42:10,177 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 15:44:27,269 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 15:59:33,959 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:14:00,400 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:14:07,493 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:16:15,844 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:17:26,395 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:17:39,774 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:19:08,829 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:20:18,544 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:20:28,612 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:23:10,292 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:23:23,529 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:25:31,226 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:28:26,753 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:28:40,496 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:29:05,808 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:31:16,081 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:47:45,954 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:49:28,151 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:50:26,634 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:56:26,734 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:56:39,185 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 16:56:40,167 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 17:03:53,847 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 17:21:37,266 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 17:29:39,275 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 17:29:49,106 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 17:32:01,841 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 17:32:03,964 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 17:32:04,088 - db_helper - INFO - insert_expense called with 2024-08-01, amount:1227.0, category:Rent, notes:Monthly rent payment
+2026-02-03 17:32:04,137 - db_helper - INFO - insert_expense called with 2024-08-01, amount:300.0, category:Food, notes:Groceries for the week
+2026-02-03 17:32:04,165 - db_helper - INFO - insert_expense called with 2024-08-01, amount:1200.0, category:Rent, notes:Monthly rent payment
+2026-02-03 17:32:04,200 - db_helper - INFO - insert_expense called with 2024-08-01, amount:300.0, category:Food, notes:Groceries for the week
+2026-02-03 17:32:19,425 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 17:32:30,925 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:23:26,913 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:26:30,501 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:28:04,241 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:28:10,664 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:28:12,763 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-02-03 18:31:08,350 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:31:14,630 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:31:16,734 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-02-03 18:34:37,634 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:34:44,635 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:34:46,749 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-02-03 18:39:48,312 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:39:53,454 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 18:39:55,567 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-02-03 19:16:55,987 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 19:17:02,176 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 19:17:04,288 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-02-03 20:21:02,484 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 20:21:14,950 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 20:21:17,123 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-02-03 20:24:45,222 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 20:25:10,367 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
