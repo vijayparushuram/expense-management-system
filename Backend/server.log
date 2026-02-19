@@ -67,3 +67,12 @@
 2026-02-03 20:21:17,123 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
 2026-02-03 20:24:45,222 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
 2026-02-03 20:25:10,367 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 22:47:29,227 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-03 22:47:31,454 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-02-05 12:18:54,084 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-05 12:19:09,163 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-05 12:21:08,779 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-05 12:21:10,951 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
+2026-02-05 16:39:25,034 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2026-02-05 16:39:25,395 - db_helper - INFO - insert_expense called with 2024-08-25, amount:40, category:Food, notes:Eat tasty samossa chat
+2026-02-05 16:39:25,421 - db_helper - INFO - fetch_expense_summary called with 2024-08-01 end: 2024-08-05
