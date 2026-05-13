@@ -278,6 +278,7 @@ pytest --cov=Backend tests/
 - Confirm MySQL service is active
 - Check database name and user permissions
 - Verify network/firewall settings
+https://expense-management-system-pf5bfxvkpbnwsjbj7mnjhh.streamlit.app
 
 ## 🙏 Acknowledgments
 
